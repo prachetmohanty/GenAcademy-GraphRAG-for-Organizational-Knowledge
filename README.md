@@ -1,0 +1,1 @@
+# GenAcademy-GraphRAG-for-Organizational-Knowledge
